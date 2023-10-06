@@ -49,5 +49,12 @@
 <br>
 2.![live prove](https://github.com/MozammalTanvir/Parker-Probe-Solar-Odessy/assets/137923174/0ba7d59f-0001-40e6-99ef-3fda965b6988)
 
+<h1>Sources</h1>
+<br>
+1.https://science.nasa.gov/mission/parker-solar-probe/
+<br>
+2.https://www.123rf.com/photo_152769755_spaceship-cockpit-space-ship-spacecraft-interior.html
+<br>
+3.
 
 
