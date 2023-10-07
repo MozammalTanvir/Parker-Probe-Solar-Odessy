@@ -1,0 +1,1141 @@
+{
+    "startingElement": "8f662ccc-73ae-4ffd-ad98-258484a5a73e",
+    "boards": {
+        "2ad15ff6-f2ba-4f1d-9d9d-68938c683d7e": {
+            "name": "Root",
+            "root": true,
+            "children": [
+                "a2205026-561f-4efe-bec8-77570a51e85f",
+                "a0e8e038-b922-42c8-87d8-803e72f9b021",
+                "a681638b-98c0-43ad-8218-b8c1152e4988",
+                "6b946ff1-057a-4d27-bb3d-b0f34bd3b13e"
+            ]
+        },
+        "6b946ff1-057a-4d27-bb3d-b0f34bd3b13e": {
+            "name": "Data Collection",
+            "notes": [],
+            "jumpers": [
+                "f6c969fe-5db7-4cd3-9e5e-47d8112e9923",
+                "fae41a17-d05b-4987-ba80-fcd976be2b9d"
+            ],
+            "branches": [],
+            "elements": [
+                "ced92753-842b-4b37-90ff-bd369de4c6dd",
+                "559a38e2-d841-4aa8-b3f7-365dc5d21538",
+                "24d5f223-2b10-4606-91d6-492698fe5020",
+                "04986082-9367-4e1a-8bd4-acebc1164eb2"
+            ],
+            "connections": [
+                "d9263d8f-2246-45ef-8b91-7a70f49e18be",
+                "6d8e5198-b395-4abb-90b6-a4d485a1e9c9",
+                "1e3cb9d1-26e6-46e9-82a8-73f1f8d6f292",
+                "e69d47d1-5271-4e45-a1d4-0f810405d33a",
+                "2bed4abd-a6df-4b5e-82b7-6554bb5d64d9"
+            ]
+        },
+        "a0e8e038-b922-42c8-87d8-803e72f9b021": {
+            "name": "Launch Phase",
+            "notes": [],
+            "jumpers": [
+                "b0f0ab05-aa24-41b9-9b61-df2ad26f296e",
+                "a25ac84b-89d1-44d1-ad8e-b1e38d7ac1d6"
+            ],
+            "branches": [],
+            "elements": [
+                "e0aa90b8-386f-4172-be83-839ca055e0f1",
+                "879709dd-5379-4029-82fb-e73007709d8d",
+                "a040137e-f9f8-4a3f-8dd0-91361b713d7a",
+                "d6843ce9-2809-41ac-83ab-669744ff2822",
+                "badf7968-f03a-4967-90b9-3296db378b94",
+                "fb8b38ac-a99b-4435-95ca-2742000aba0a",
+                "33e9cbda-a2e4-44b6-9847-acff400fee1e",
+                "7bccc4bb-f816-43ee-b37c-6efd8318b520"
+            ],
+            "connections": [
+                "fa587692-dc01-49b7-aa17-0ad22e8c8c60",
+                "e3ec8324-1958-490c-a3dd-65611a2e6f79",
+                "48c6c9c3-5ee1-4f5d-8b79-8fa5718a56e8",
+                "4c0e9a01-eba1-41de-91e9-a5eea2b27ea0",
+                "3656e2fc-6027-417a-8836-71f2ea0a583f",
+                "9399df9f-67af-4b02-953b-ebd4abfb6210",
+                "15bb006a-99db-4438-b8db-27299b1e01af",
+                "a2d52c02-4126-4bee-a8fd-2b92deef209e",
+                "b6a81510-cf01-467a-a46f-015cebeeda3f",
+                "2c080090-9f91-4a17-8a9f-d9cb58ca46b0",
+                "9da507ea-3145-43db-97ae-27b642b54df1",
+                "a6a86aa5-d7f3-435c-981c-5fc7c4b94fcd",
+                "af0d1d62-2822-4920-a7d2-d37471e269f9",
+                "d095e773-a804-4e6c-b2b6-d0ac0fd3126b",
+                "3aa509c1-2ba6-466c-bb29-e2ddbc30f7c3"
+            ]
+        },
+        "a2205026-561f-4efe-bec8-77570a51e85f": {
+            "name": "Welcome Phase",
+            "notes": [],
+            "jumpers": [
+                "7caf9bd3-d8e2-456e-8768-78631af10957"
+            ],
+            "branches": [],
+            "elements": [
+                "8f662ccc-73ae-4ffd-ad98-258484a5a73e",
+                "b39e3778-77d5-4457-b50e-99d5e57e9a09",
+                "789fec35-e07f-4f9b-91e7-ff441c001b2c"
+            ],
+            "connections": [
+                "591d6957-a2db-41c1-97cb-3f38ef3c0c70",
+                "fce1b8f4-1ebd-4bd4-b43c-7e17e7afce6a",
+                "c09acea5-491a-4650-9e98-83318b1f58fc",
+                "ef04e644-b314-4a89-a4dc-e7be44b1a1d4",
+                "b4d12169-06a3-434d-b4c0-bb9df49be8cc"
+            ]
+        },
+        "a681638b-98c0-43ad-8218-b8c1152e4988": {
+            "name": "Journey Phase",
+            "notes": [],
+            "jumpers": [
+                "0b2025c8-3f06-4c6a-a5d2-e33210c979dd",
+                "13c6dbc5-b8f6-4d6a-a5ae-c1699fb0d89b",
+                "3b19a8ef-c815-4eea-9b7a-210b78c344a2"
+            ],
+            "branches": [],
+            "elements": [
+                "e98ba066-3144-4a79-9d0f-26855823a548",
+                "b224536e-f31c-4e02-bd57-dcead347fd9f",
+                "67b65ed5-baa5-43c5-92d4-020cccff4377",
+                "8b9678a3-105d-4b32-8d80-989ea8bb3aec",
+                "cb0ec972-2f59-4bcf-b887-ceeca2c149b7",
+                "8597a2d0-34cc-437b-9d6f-b8eb9cbe2fa5",
+                "b9333dda-da05-41b1-89f1-268ba41dc2eb",
+                "bbe9ebf5-9a92-4329-87b1-f4c9bf84682c"
+            ],
+            "connections": [
+                "311df60b-11fe-46a7-899b-0e2e48ab519f",
+                "bb0b471c-d255-418b-ba55-e629e8571d06",
+                "1978dab1-bb4c-4b26-a690-198f8f0ccbd7",
+                "0a184114-7999-4f7a-a131-2812062bc568",
+                "ef1363a6-4d9f-4148-abb5-f0b4564c6e9f",
+                "dc5cd0f6-67a0-4a1d-8b34-fe46e78089fa",
+                "b0252f5c-87f5-47ce-82ea-8f2ac9f4f251",
+                "60778878-049d-44cd-9c40-4ec1ea5e53bc",
+                "834a60db-682c-4701-a628-d74400807bec",
+                "8e6f1ecd-f5de-40df-bcb0-05ab4d358541",
+                "664efa22-985e-4513-ac06-b41468eb074a"
+            ]
+        }
+    },
+    "notes": {},
+    "elements": {
+        "04986082-9367-4e1a-8bd4-acebc1164eb2": {
+            "theme": "cyan",
+            "title": "<p>exit<\/p>",
+            "content": "<blockquote><p>Thanks for being with us.<\/p><\/blockquote><p>                            -<strong><em>Scrappers<\/em><\/strong><\/p>",
+            "outputs": [],
+            "autoHeight": true,
+            "components": []
+        },
+        "24d5f223-2b10-4606-91d6-492698fe5020": {
+            "theme": "cyan",
+            "title": "<p>Success<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "12d1ece3-e6c3-4ba8-ae8c-2468084d507b"
+                }
+            },
+            "content": "<p>Congratulations Chief.<\/p><p>We have completed our <strong>Parker Solar Probe Mission<\/strong>. Thanks for being with us. Hope to see you soon in another mission...<\/p>",
+            "outputs": [
+                "e69d47d1-5271-4e45-a1d4-0f810405d33a",
+                "2bed4abd-a6df-4b5e-82b7-6554bb5d64d9"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "33e9cbda-a2e4-44b6-9847-acff400fee1e": {
+            "theme": "cyan",
+            "title": "<p>Placed on the Launch Pad<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "e9953b9a-2a59-42bf-8b69-9a5b4779c311"
+                }
+            },
+            "content": "<p>Congrats. Our <strong>Delta IV<\/strong> rocket has been placed on the launch pad.<\/p><p>Let's begin the countdown...<\/p>",
+            "outputs": [
+                "a6a86aa5-d7f3-435c-981c-5fc7c4b94fcd",
+                "9da507ea-3145-43db-97ae-27b642b54df1"
+            ],
+            "autoHeight": false,
+            "components": []
+        },
+        "559a38e2-d841-4aa8-b3f7-365dc5d21538": {
+            "theme": "cyan",
+            "title": "<p>wrong data rate<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "1ee829f8-42c8-4f6b-9f16-216ee025a6ce"
+                }
+            },
+            "content": "<p>Invalid Data Rate!!!<\/p><p>Data collection failed!<\/p>",
+            "outputs": [
+                "6d8e5198-b395-4abb-90b6-a4d485a1e9c9"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "67b65ed5-baa5-43c5-92d4-020cccff4377": {
+            "theme": "cyan",
+            "title": "<p>120 km release<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "5092246b-9908-49dd-beff-eb7b9dcf0830"
+                }
+            },
+            "content": "<p>Oh-no!<\/p><p>Released solar probe too early. It's a big mistake. Learn properly and come again.<\/p>",
+            "outputs": [
+                "1978dab1-bb4c-4b26-a690-198f8f0ccbd7"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "789fec35-e07f-4f9b-91e7-ff441c001b2c": {
+            "theme": "cyan",
+            "title": "<p>User Manual<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "efc478d0-8b14-4973-9cd6-5338c6a3f374"
+                }
+            },
+            "content": "<p>Firstly you have to learn about all criteria of Parker Solar Probe. You have to be mind of it.<\/p><p><strong><em>Budget: <\/em><\/strong>The solar probe cost NASA US$1.5 billion.<\/p><p><strong><em>Fuel Comsumption:<\/em><\/strong> Parker Solar Probe has a hydrazine fuel tank that contains about 550 kilograms of fuel and that the spacecraft's fuel consumption rate is about 10 grams per second. Parker Solar Probe will need a total of about 420 kilograms of fuel for its entire mission.<\/p><p><strong><em>Frequency:<\/em><\/strong> NASA uses different frequency bands for space communication, including S band (2-4 GHz), X band (8-12 GHz), and Ka band (27-40 GHz)<\/p><p><strong><em>Data Rate:<\/em><\/strong> The data rate for deep space communication is about 0.5 to 4 megabits per second.<\/p><p><strong><em>Required Distance: <\/em><\/strong>At its closest approach toward the end of its seven-year prime mission, Parker Solar Probe will swoop within 3.83 million miles(6.2 milion kilometers) of the solar surface.<\/p><p><strong><em>Required Speed: <\/em><\/strong>Parker Solar Probe is how some particles can accelerate away from the Sun at mind-boggling speeds — more than half the speed of light, or upwards of 90,000 miles per second.<\/p><p><strong><em>Launch Vehicle: <\/em><\/strong>Delta IV-Heavy with Upper Stage.<\/p><p><strong><em>Heat Shield: <\/em><\/strong>Solar Probe and its instruments are protected from the Sun by a 4.5-inch-thick (11.43 cm) carbon-composite shield, which can withstand temperatures reaching nearly 2,500 degrees Fahrenheit (1,377 Celsius).<\/p><p><strong><em>Equipment Releasing in the space:<\/em><\/strong><em> <\/em>After burning out the fuels it releases it's two boosters at approximately 3.55 seconds after launch. When it reaches 150KM distance from the Earth, the <strong>delta-IV<\/strong> rocket opens from two sides and releases those shells. Here the parker solar probe is released in the space.<\/p>",
+            "outputs": [
+                "b4d12169-06a3-434d-b4c0-bb9df49be8cc",
+                "ef04e644-b314-4a89-a4dc-e7be44b1a1d4"
+            ],
+            "autoHeight": false,
+            "components": []
+        },
+        "7bccc4bb-f816-43ee-b37c-6efd8318b520": {
+            "theme": "cyan",
+            "title": "<p>Launch<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "f20a785e-679a-4d50-bb04-f682fea26034"
+                }
+            },
+            "content": "<p>Here we go.<\/p><p>We have successfully completed the launch phase. Let's keep moving towards The Sun.<\/p>",
+            "outputs": [
+                "d095e773-a804-4e6c-b2b6-d0ac0fd3126b",
+                "af0d1d62-2822-4920-a7d2-d37471e269f9"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "8597a2d0-34cc-437b-9d6f-b8eb9cbe2fa5": {
+            "theme": "cyan",
+            "title": "<p>red signal<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "c72e0b6c-c07a-4726-ba31-e30aee8690c5"
+                }
+            },
+            "content": "<p>It was high time to release! The signal is beeping. Release the probe fast.<\/p>",
+            "outputs": [
+                "b0252f5c-87f5-47ce-82ea-8f2ac9f4f251"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "879709dd-5379-4029-82fb-e73007709d8d": {
+            "theme": "cyan",
+            "title": "<p>Fuel Load<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "2539c5f4-7d09-44a2-b848-73813f7bcc03"
+                }
+            },
+            "content": "<p>Body Intigration Complete!!<\/p><p>Now let's Load fuel to the spacecraft for the journey.<\/p>",
+            "outputs": [
+                "48c6c9c3-5ee1-4f5d-8b79-8fa5718a56e8",
+                "e3ec8324-1958-490c-a3dd-65611a2e6f79"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "8b9678a3-105d-4b32-8d80-989ea8bb3aec": {
+            "theme": "cyan",
+            "title": "<p>150 km release<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "f82c4143-29ca-4e23-9708-94a3a8132977"
+                }
+            },
+            "content": "<p>Chief, we are now 150km away. Should we release now?<\/p>",
+            "outputs": [
+                "dc5cd0f6-67a0-4a1d-8b34-fe46e78089fa",
+                "ef1363a6-4d9f-4148-abb5-f0b4564c6e9f"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "8f662ccc-73ae-4ffd-ad98-258484a5a73e": {
+            "theme": "cyan",
+            "title": "<p>Welcome to Parker Probe||Solar Odessy<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "399ee967-e018-44b5-8695-51db6c413398"
+                }
+            },
+            "content": "<p>Welcome to the Parker Probe Solar Odessy project...<\/p><p><\/p>",
+            "outputs": [
+                "591d6957-a2db-41c1-97cb-3f38ef3c0c70"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "a040137e-f9f8-4a3f-8dd0-91361b713d7a": {
+            "theme": "cyan",
+            "title": "<p>Fuel <\/p>",
+            "assets": {
+                "cover": {
+                    "id": "0d2b1d25-9259-4bbb-8d95-d8019a06b3b5"
+                }
+            },
+            "content": "<p>How much fuel do you want to load?<\/p>",
+            "outputs": [
+                "9399df9f-67af-4b02-953b-ebd4abfb6210",
+                "15bb006a-99db-4438-b8db-27299b1e01af",
+                "a2d52c02-4126-4bee-a8fd-2b92deef209e",
+                "4c0e9a01-eba1-41de-91e9-a5eea2b27ea0"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "b224536e-f31c-4e02-bd57-dcead347fd9f": {
+            "theme": "cyan",
+            "title": "<p>booster release<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "fdbe3b29-0d1d-48d6-a185-11aa7e988199"
+                }
+            },
+            "content": "<p>Boosters released...<\/p><p>Our distance from Earth is 120 KM from Earth now. Should we release solar probe in the space now?<\/p>",
+            "outputs": [
+                "bb0b471c-d255-418b-ba55-e629e8571d06",
+                "0a184114-7999-4f7a-a131-2812062bc568"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "b39e3778-77d5-4457-b50e-99d5e57e9a09": {
+            "theme": "cyan",
+            "title": "<p>Entrance<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "25e2e2c3-c1d3-47e9-b5f4-0644b3784204"
+                }
+            },
+            "content": "<p><em>Are you interested<\/em> to explore the <strong>NASA<\/strong>'s <strong><em><u>Parker Solar Probe Odessy<\/u><\/em><\/strong> Project with us?<\/p><p>Let's Learn together and explore the <strong><em>SUN<\/em><\/strong>...<\/p>",
+            "outputs": [
+                "c09acea5-491a-4650-9e98-83318b1f58fc",
+                "fce1b8f4-1ebd-4bd4-b43c-7e17e7afce6a"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "b9333dda-da05-41b1-89f1-268ba41dc2eb": {
+            "theme": "cyan",
+            "title": "<p>Journey<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "6a5965ea-721c-4aa4-95e1-3d0ca19aebd0"
+                }
+            },
+            "content": "<p>Came so far.<\/p><p>We are 3.83 million miles away from the Sun. Should we start data collection now?<\/p>",
+            "outputs": [
+                "664efa22-985e-4513-ac06-b41468eb074a",
+                "8e6f1ecd-f5de-40df-bcb0-05ab4d358541"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "badf7968-f03a-4967-90b9-3296db378b94": {
+            "theme": "cyan",
+            "title": "<p>fuel loaded<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "48f83412-ac88-40d9-bd86-ebf06c3bc21d"
+                }
+            },
+            "content": "<p>Fuel loaded successfully.<\/p><p>Now let's check pre-launch activities to ensure everything is alright...<\/p>",
+            "outputs": [
+                "b6a81510-cf01-467a-a46f-015cebeeda3f"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "bbe9ebf5-9a92-4329-87b1-f4c9bf84682c": {
+            "theme": "cyan",
+            "title": "<p>error break<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "7cdd03fc-a110-4b2b-ac98-60e4e3f1914b"
+                }
+            },
+            "content": "<p>We came too near to the Sun!!!<\/p><p>Also faced <strong>Sun's Flare<\/strong>!!! You could be more careful. Learn the informations more.<\/p><p>Hope to see you soon...<\/p>",
+            "outputs": [
+                "60778878-049d-44cd-9c40-4ec1ea5e53bc"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "cb0ec972-2f59-4bcf-b887-ceeca2c149b7": {
+            "theme": "cyan",
+            "title": "<p>Release probe<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "7cb6e45f-f121-4143-803e-c533c6af53d3"
+                }
+            },
+            "content": "<p>Releasing the Probe. <\/p><p>Continue the journey towards The Sun...<\/p>",
+            "outputs": [
+                "834a60db-682c-4701-a628-d74400807bec"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "ced92753-842b-4b37-90ff-bd369de4c6dd": {
+            "theme": "cyan",
+            "title": "<p>stopped<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "8d517e42-20d0-4ebd-a7f8-8148475137f6"
+                }
+            },
+            "content": "<p>We've placed on the point. Check if everything is ready to start data collection.<\/p><p>S Band:<\/p><pre><code>show(frequency_sband)<\/code><\/pre><p>GHz.<\/p><p>X Band:<\/p><pre><code>show(frequency_xband)<\/code><\/pre><p>GHz.<\/p><p>K Band:<\/p><pre><code>show(frequency_kband)<\/code><\/pre><p>GHz.<\/p><p>Data Rate:<\/p><pre><code>show(data_rate)<\/code><\/pre><p>Megabit.<\/p>",
+            "outputs": [
+                "1e3cb9d1-26e6-46e9-82a8-73f1f8d6f292",
+                "d9263d8f-2246-45ef-8b91-7a70f49e18be"
+            ],
+            "autoHeight": true,
+            "components": [
+                "3c2c0568-880d-468c-8b8d-349e977301f7",
+                "b4e496e6-0c43-4581-b3e8-3578de6cabb3"
+            ]
+        },
+        "d6843ce9-2809-41ac-83ab-669744ff2822": {
+            "theme": "cyan",
+            "title": "<p>fuel overloaded!!!<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "1ee829f8-42c8-4f6b-9f16-216ee025a6ce"
+                }
+            },
+            "content": "<p>Oh-no!<\/p><p>You have overloaded Fuel Tank! Lot's of fuel wasted!<\/p><p>Go and come back after learning the manual again.<\/p>",
+            "outputs": [
+                "3656e2fc-6027-417a-8836-71f2ea0a583f"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "e0aa90b8-386f-4172-be83-839ca055e0f1": {
+            "theme": "cyan",
+            "title": "<p>Integrate Equipments<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "088eea7b-953e-4437-a647-8e0f2d0a1075"
+                }
+            },
+            "content": "<p>Firstly, we have to prepare our spacecraft ensuring all the requirements and necessary materials. The spacecraft <strong><em>Body Integration<\/em><\/strong> is the first step of launch phase where the spacecraft is build.<\/p>",
+            "outputs": [
+                "fa587692-dc01-49b7-aa17-0ad22e8c8c60"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "e98ba066-3144-4a79-9d0f-26855823a548": {
+            "theme": "cyan",
+            "title": "<p>journey phase<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "fb54922e-be05-4a53-896f-96b89a69d686"
+                }
+            },
+            "content": "<p>So far...<\/p><p>Fuel burned out. We should leave the boosters now.<\/p>",
+            "outputs": [
+                "311df60b-11fe-46a7-899b-0e2e48ab519f"
+            ],
+            "autoHeight": true,
+            "components": []
+        },
+        "fb8b38ac-a99b-4435-95ca-2742000aba0a": {
+            "theme": "cyan",
+            "title": "<p>pre launch<\/p>",
+            "assets": {
+                "cover": {
+                    "id": "f0748e2f-4709-4634-be86-40e7f6aacea6"
+                }
+            },
+            "content": "<p><\/p><p>Check if everything is alright...<\/p><p>S Band Frequency:<\/p><pre><code>show(frequency_sband)<\/code><\/pre><p>GHz.<\/p><p>X Band Frequency:<\/p><pre><code>show(frequency_xband)<\/code><\/pre><p>GHz.<\/p><p>K Band Frequency:<\/p><pre><code>show(frequency_kband)<\/code><\/pre><p>GHz.<\/p><p>Loaded Fuel:<\/p><pre><code>show(fuel_load)<\/code><\/pre><p>kilograms.<\/p>",
+            "outputs": [
+                "2c080090-9f91-4a17-8a9f-d9cb58ca46b0",
+                "3aa509c1-2ba6-466c-bb29-e2ddbc30f7c3"
+            ],
+            "autoHeight": false,
+            "components": [
+                "837c03d2-0813-493d-89d2-ee6934d47e22",
+                "072d4247-d97e-4007-b523-e58503a4fe90",
+                "3c2c0568-880d-468c-8b8d-349e977301f7"
+            ]
+        }
+    },
+    "jumpers": {
+        "0b2025c8-3f06-4c6a-a5d2-e33210c979dd": {
+            "elementId": "789fec35-e07f-4f9b-91e7-ff441c001b2c"
+        },
+        "13c6dbc5-b8f6-4d6a-a5ae-c1699fb0d89b": {
+            "elementId": "789fec35-e07f-4f9b-91e7-ff441c001b2c"
+        },
+        "3b19a8ef-c815-4eea-9b7a-210b78c344a2": {
+            "elementId": "ced92753-842b-4b37-90ff-bd369de4c6dd"
+        },
+        "7caf9bd3-d8e2-456e-8768-78631af10957": {
+            "elementId": "e0aa90b8-386f-4172-be83-839ca055e0f1"
+        },
+        "a25ac84b-89d1-44d1-ad8e-b1e38d7ac1d6": {
+            "elementId": "e98ba066-3144-4a79-9d0f-26855823a548"
+        },
+        "b0f0ab05-aa24-41b9-9b61-df2ad26f296e": {
+            "elementId": "789fec35-e07f-4f9b-91e7-ff441c001b2c"
+        },
+        "f6c969fe-5db7-4cd3-9e5e-47d8112e9923": {
+            "elementId": "789fec35-e07f-4f9b-91e7-ff441c001b2c"
+        },
+        "fae41a17-d05b-4987-ba80-fcd976be2b9d": {
+            "elementId": "8f662ccc-73ae-4ffd-ad98-258484a5a73e"
+        }
+    },
+    "connections": {
+        "0a184114-7999-4f7a-a131-2812062bc568": {
+            "type": "Straight",
+            "label": "<p>Wait More<\/p>",
+            "theme": "default",
+            "sourceid": "b224536e-f31c-4e02-bd57-dcead347fd9f",
+            "targetid": "8b9678a3-105d-4b32-8d80-989ea8bb3aec",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "elements"
+        },
+        "15bb006a-99db-4438-b8db-27299b1e01af": {
+            "type": "Straight",
+            "label": "<p>400 kilograms<\/p><pre><code>fuel_load=400<\/code><\/pre>",
+            "theme": "default",
+            "sourceid": "a040137e-f9f8-4a3f-8dd0-91361b713d7a",
+            "targetid": "badf7968-f03a-4967-90b9-3296db378b94",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "elements"
+        },
+        "1978dab1-bb4c-4b26-a690-198f8f0ccbd7": {
+            "type": "Straight",
+            "label": "<p>Proceed<\/p>",
+            "theme": "default",
+            "sourceid": "67b65ed5-baa5-43c5-92d4-020cccff4377",
+            "targetid": "0b2025c8-3f06-4c6a-a5d2-e33210c979dd",
+            "sourceType": "elements",
+            "targetType": "jumpers"
+        },
+        "1e3cb9d1-26e6-46e9-82a8-73f1f8d6f292": {
+            "type": "Straight",
+            "label": "<p>Start Data Collection<\/p>",
+            "theme": "default",
+            "sourceid": "ced92753-842b-4b37-90ff-bd369de4c6dd",
+            "targetid": "24d5f223-2b10-4606-91d6-492698fe5020",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "elements"
+        },
+        "2bed4abd-a6df-4b5e-82b7-6554bb5d64d9": {
+            "type": "Straight",
+            "label": "<p>Exit Game<\/p>",
+            "theme": "default",
+            "sourceid": "24d5f223-2b10-4606-91d6-492698fe5020",
+            "targetid": "04986082-9367-4e1a-8bd4-acebc1164eb2",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "elements"
+        },
+        "2c080090-9f91-4a17-8a9f-d9cb58ca46b0": {
+            "type": "Straight",
+            "label": "<p>Roll-Out to the Launch Pad<\/p>",
+            "theme": "default",
+            "sourceid": "fb8b38ac-a99b-4435-95ca-2742000aba0a",
+            "targetid": "33e9cbda-a2e4-44b6-9847-acff400fee1e",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "elements"
+        },
+        "311df60b-11fe-46a7-899b-0e2e48ab519f": {
+            "type": "Straight",
+            "label": "<p>Release Boosters<\/p>",
+            "theme": "default",
+            "sourceid": "e98ba066-3144-4a79-9d0f-26855823a548",
+            "targetid": "b224536e-f31c-4e02-bd57-dcead347fd9f",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "elements"
+        },
+        "3656e2fc-6027-417a-8836-71f2ea0a583f": {
+            "type": "Straight",
+            "label": "<p>Go to the manual<\/p>",
+            "theme": "default",
+            "sourceid": "d6843ce9-2809-41ac-83ab-669744ff2822",
+            "targetid": "b0f0ab05-aa24-41b9-9b61-df2ad26f296e",
+            "sourceType": "elements",
+            "targetFace": "top",
+            "targetType": "jumpers"
+        },
+        "3aa509c1-2ba6-466c-bb29-e2ddbc30f7c3": {
+            "type": "Straight",
+            "label": "<p>Modify Values<\/p>",
+            "theme": "default",
+            "sourceid": "fb8b38ac-a99b-4435-95ca-2742000aba0a",
+            "targetid": "a040137e-f9f8-4a3f-8dd0-91361b713d7a",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "48c6c9c3-5ee1-4f5d-8b79-8fa5718a56e8": {
+            "type": "Straight",
+            "label": "<p>Load Fuel<\/p>",
+            "theme": "default",
+            "sourceid": "879709dd-5379-4029-82fb-e73007709d8d",
+            "targetid": "a040137e-f9f8-4a3f-8dd0-91361b713d7a",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "elements"
+        },
+        "4c0e9a01-eba1-41de-91e9-a5eea2b27ea0": {
+            "type": "Straight",
+            "label": "<p>600 kilograms<\/p>",
+            "theme": "default",
+            "sourceid": "a040137e-f9f8-4a3f-8dd0-91361b713d7a",
+            "targetid": "d6843ce9-2809-41ac-83ab-669744ff2822",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "elements"
+        },
+        "591d6957-a2db-41c1-97cb-3f38ef3c0c70": {
+            "type": "Straight",
+            "label": "<p>Enter Game<\/p>",
+            "theme": "default",
+            "sourceid": "8f662ccc-73ae-4ffd-ad98-258484a5a73e",
+            "targetid": "b39e3778-77d5-4457-b50e-99d5e57e9a09",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "elements"
+        },
+        "60778878-049d-44cd-9c40-4ec1ea5e53bc": {
+            "type": "Straight",
+            "label": "<p>Learn Again<\/p>",
+            "theme": "default",
+            "sourceid": "bbe9ebf5-9a92-4329-87b1-f4c9bf84682c",
+            "targetid": "13c6dbc5-b8f6-4d6a-a5ae-c1699fb0d89b",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "jumpers"
+        },
+        "664efa22-985e-4513-ac06-b41468eb074a": {
+            "type": "Straight",
+            "label": "<p>Stop and Start Data Collection Phase<\/p>",
+            "theme": "default",
+            "sourceid": "b9333dda-da05-41b1-89f1-268ba41dc2eb",
+            "targetid": "3b19a8ef-c815-4eea-9b7a-210b78c344a2",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "jumpers"
+        },
+        "6d8e5198-b395-4abb-90b6-a4d485a1e9c9": {
+            "type": "Straight",
+            "label": "<p>Find required Data Rate<\/p>",
+            "theme": "default",
+            "sourceid": "559a38e2-d841-4aa8-b3f7-365dc5d21538",
+            "targetid": "f6c969fe-5db7-4cd3-9e5e-47d8112e9923",
+            "sourceType": "elements",
+            "targetType": "jumpers"
+        },
+        "834a60db-682c-4701-a628-d74400807bec": {
+            "type": "Straight",
+            "label": "<p>Keep Moving<\/p>",
+            "theme": "default",
+            "sourceid": "cb0ec972-2f59-4bcf-b887-ceeca2c149b7",
+            "targetid": "b9333dda-da05-41b1-89f1-268ba41dc2eb",
+            "sourceType": "elements",
+            "targetFace": "top",
+            "targetType": "elements"
+        },
+        "8e6f1ecd-f5de-40df-bcb0-05ab4d358541": {
+            "type": "Straight",
+            "label": "<p>Don't Stop<\/p>",
+            "theme": "default",
+            "sourceid": "b9333dda-da05-41b1-89f1-268ba41dc2eb",
+            "targetid": "bbe9ebf5-9a92-4329-87b1-f4c9bf84682c",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "elements"
+        },
+        "9399df9f-67af-4b02-953b-ebd4abfb6210": {
+            "type": "Straight",
+            "label": "<p>300 kilograms<\/p><pre><code>fuel_load=300<\/code><\/pre>",
+            "theme": "default",
+            "sourceid": "a040137e-f9f8-4a3f-8dd0-91361b713d7a",
+            "targetid": "badf7968-f03a-4967-90b9-3296db378b94",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "9da507ea-3145-43db-97ae-27b642b54df1": {
+            "type": "Straight",
+            "label": "<p>Back to Pre-Launch phase<\/p>",
+            "theme": "default",
+            "sourceid": "33e9cbda-a2e4-44b6-9847-acff400fee1e",
+            "targetid": "fb8b38ac-a99b-4435-95ca-2742000aba0a",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "a2d52c02-4126-4bee-a8fd-2b92deef209e": {
+            "type": "Straight",
+            "label": "<p>500 kilograms<\/p><pre><code>fuel_load=500<\/code><\/pre>",
+            "theme": "default",
+            "sourceid": "a040137e-f9f8-4a3f-8dd0-91361b713d7a",
+            "targetid": "badf7968-f03a-4967-90b9-3296db378b94",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "elements"
+        },
+        "a6a86aa5-d7f3-435c-981c-5fc7c4b94fcd": {
+            "type": "Straight",
+            "label": "<p>Launch<\/p>",
+            "theme": "default",
+            "sourceid": "33e9cbda-a2e4-44b6-9847-acff400fee1e",
+            "targetid": "7bccc4bb-f816-43ee-b37c-6efd8318b520",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "elements"
+        },
+        "af0d1d62-2822-4920-a7d2-d37471e269f9": {
+            "type": "Straight",
+            "label": "<p>back<\/p>",
+            "theme": "default",
+            "sourceid": "7bccc4bb-f816-43ee-b37c-6efd8318b520",
+            "targetid": "33e9cbda-a2e4-44b6-9847-acff400fee1e",
+            "sourceType": "elements",
+            "targetFace": "right",
+            "targetType": "elements"
+        },
+        "b0252f5c-87f5-47ce-82ea-8f2ac9f4f251": {
+            "type": "Straight",
+            "label": "<p>Release<\/p>",
+            "theme": "default",
+            "sourceid": "8597a2d0-34cc-437b-9d6f-b8eb9cbe2fa5",
+            "targetid": "cb0ec972-2f59-4bcf-b887-ceeca2c149b7",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "elements"
+        },
+        "b4d12169-06a3-434d-b4c0-bb9df49be8cc": {
+            "type": "Straight",
+            "label": "<p>Got It?<\/p><p>Start Launch Phase<\/p>",
+            "theme": "default",
+            "sourceid": "789fec35-e07f-4f9b-91e7-ff441c001b2c",
+            "targetid": "7caf9bd3-d8e2-456e-8768-78631af10957",
+            "sourceType": "elements",
+            "targetType": "jumpers"
+        },
+        "b6a81510-cf01-467a-a46f-015cebeeda3f": {
+            "type": "Straight",
+            "label": "<p>Pre-Launch Phase<\/p>",
+            "theme": "default",
+            "sourceid": "badf7968-f03a-4967-90b9-3296db378b94",
+            "targetid": "fb8b38ac-a99b-4435-95ca-2742000aba0a",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "elements"
+        },
+        "bb0b471c-d255-418b-ba55-e629e8571d06": {
+            "type": "Straight",
+            "label": "<p>Release Solar Probe<\/p>",
+            "theme": "default",
+            "sourceid": "b224536e-f31c-4e02-bd57-dcead347fd9f",
+            "targetid": "67b65ed5-baa5-43c5-92d4-020cccff4377",
+            "sourceType": "elements",
+            "targetFace": "top",
+            "targetType": "elements"
+        },
+        "c09acea5-491a-4650-9e98-83318b1f58fc": {
+            "type": "Straight",
+            "label": "<p>Next Step<\/p>",
+            "theme": "default",
+            "sourceid": "b39e3778-77d5-4457-b50e-99d5e57e9a09",
+            "targetid": "789fec35-e07f-4f9b-91e7-ff441c001b2c",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "elements"
+        },
+        "d095e773-a804-4e6c-b2b6-d0ac0fd3126b": {
+            "type": "Straight",
+            "label": "<p>Journey Phase<\/p>",
+            "theme": "default",
+            "sourceid": "7bccc4bb-f816-43ee-b37c-6efd8318b520",
+            "targetid": "a25ac84b-89d1-44d1-ad8e-b1e38d7ac1d6",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "jumpers"
+        },
+        "d9263d8f-2246-45ef-8b91-7a70f49e18be": {
+            "type": "Straight",
+            "label": "<p>Increase Data Rate<\/p>",
+            "theme": "default",
+            "sourceid": "ced92753-842b-4b37-90ff-bd369de4c6dd",
+            "targetid": "559a38e2-d841-4aa8-b3f7-365dc5d21538",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "dc5cd0f6-67a0-4a1d-8b34-fe46e78089fa": {
+            "type": "Straight",
+            "label": "<p>Wait More<\/p>",
+            "theme": "default",
+            "sourceid": "8b9678a3-105d-4b32-8d80-989ea8bb3aec",
+            "targetid": "8597a2d0-34cc-437b-9d6f-b8eb9cbe2fa5",
+            "sourceType": "elements",
+            "targetFace": "top",
+            "targetType": "elements"
+        },
+        "e3ec8324-1958-490c-a3dd-65611a2e6f79": {
+            "type": "Straight",
+            "label": "<p>Previous Step<\/p>",
+            "theme": "default",
+            "sourceid": "879709dd-5379-4029-82fb-e73007709d8d",
+            "targetid": "e0aa90b8-386f-4172-be83-839ca055e0f1",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "e69d47d1-5271-4e45-a1d4-0f810405d33a": {
+            "type": "Straight",
+            "label": "<p>Play Again<\/p>",
+            "theme": "default",
+            "sourceid": "24d5f223-2b10-4606-91d6-492698fe5020",
+            "targetid": "fae41a17-d05b-4987-ba80-fcd976be2b9d",
+            "sourceType": "elements",
+            "targetType": "jumpers"
+        },
+        "ef04e644-b314-4a89-a4dc-e7be44b1a1d4": {
+            "type": "Straight",
+            "label": "<p>Back<\/p>",
+            "theme": "default",
+            "sourceid": "789fec35-e07f-4f9b-91e7-ff441c001b2c",
+            "targetid": "b39e3778-77d5-4457-b50e-99d5e57e9a09",
+            "sourceType": "elements",
+            "targetFace": "right",
+            "targetType": "elements"
+        },
+        "ef1363a6-4d9f-4148-abb5-f0b4564c6e9f": {
+            "type": "Straight",
+            "label": "<p>Release<\/p>",
+            "theme": "default",
+            "sourceid": "8b9678a3-105d-4b32-8d80-989ea8bb3aec",
+            "targetid": "cb0ec972-2f59-4bcf-b887-ceeca2c149b7",
+            "sourceType": "elements",
+            "targetFace": "left",
+            "targetType": "elements"
+        },
+        "fa587692-dc01-49b7-aa17-0ad22e8c8c60": {
+            "type": "Straight",
+            "label": "<p>Integrate Equipments<\/p>",
+            "theme": "default",
+            "sourceid": "e0aa90b8-386f-4172-be83-839ca055e0f1",
+            "targetid": "879709dd-5379-4029-82fb-e73007709d8d",
+            "sourceType": "elements",
+            "targetType": "elements"
+        },
+        "fce1b8f4-1ebd-4bd4-b43c-7e17e7afce6a": {
+            "type": "Straight",
+            "label": "<p>Exit Game<\/p>",
+            "theme": "default",
+            "sourceid": "b39e3778-77d5-4457-b50e-99d5e57e9a09",
+            "targetid": "8f662ccc-73ae-4ffd-ad98-258484a5a73e",
+            "sourceType": "elements",
+            "targetFace": "right",
+            "targetType": "elements"
+        }
+    },
+    "branches": {},
+    "components": {
+        "043ad1ba-a5b0-4e7a-82a4-288fd62dc8e2": {
+            "name": "Carbon Composite Shield",
+            "assets": {
+                "cover": {
+                    "file": "lorc\/arrows-shield",
+                    "type": "icon"
+                }
+            },
+            "attributes": []
+        },
+        "072d4247-d97e-4007-b523-e58503a4fe90": {
+            "name": "Body Equipments",
+            "assets": {
+                "cover": {
+                    "file": "lorc\/spiky-field",
+                    "type": "icon"
+                }
+            },
+            "attributes": []
+        },
+        "3c2c0568-880d-468c-8b8d-349e977301f7": {
+            "name": "Frequency",
+            "assets": {
+                "cover": {
+                    "file": "lorc\/lightning-frequency",
+                    "type": "icon"
+                }
+            },
+            "attributes": []
+        },
+        "64981c2b-18d2-4211-b529-e14fbb8d45dc": {
+            "name": "Pre_Launch",
+            "children": [
+                "043ad1ba-a5b0-4e7a-82a4-288fd62dc8e2",
+                "3c2c0568-880d-468c-8b8d-349e977301f7",
+                "072d4247-d97e-4007-b523-e58503a4fe90",
+                "837c03d2-0813-493d-89d2-ee6934d47e22"
+            ]
+        },
+        "65005bda-15d0-41c5-867f-68c118829f08": {
+            "name": "Root",
+            "root": true,
+            "children": [
+                "64981c2b-18d2-4211-b529-e14fbb8d45dc",
+                "b4e496e6-0c43-4581-b3e8-3578de6cabb3"
+            ]
+        },
+        "837c03d2-0813-493d-89d2-ee6934d47e22": {
+            "name": "Fuel",
+            "assets": {
+                "cover": {
+                    "file": "delapouite\/fuel-tank",
+                    "type": "icon"
+                }
+            },
+            "attributes": []
+        },
+        "b4e496e6-0c43-4581-b3e8-3578de6cabb3": {
+            "name": "Data_Rate",
+            "assets": {
+                "cover": {
+                    "file": "delapouite\/database",
+                    "type": "icon"
+                }
+            },
+            "attributes": [
+                "e1a3850c-d58a-4018-b7b1-8d4f7de3dd65"
+            ]
+        }
+    },
+    "attributes": {
+        "e1a3850c-d58a-4018-b7b1-8d4f7de3dd65": {
+            "cId": "b4e496e6-0c43-4581-b3e8-3578de6cabb3",
+            "name": "",
+            "cType": "components",
+            "value": {
+                "data": "Data Rate",
+                "type": "string",
+                "plain": true
+            }
+        }
+    },
+    "assets": {
+        "088eea7b-953e-4437-a647-8e0f2d0a1075": {
+            "name": "17-03445-6184.jpeg",
+            "type": "image"
+        },
+        "0d2b1d25-9259-4bbb-8d95-d8019a06b3b5": {
+            "name": "Untitled design.jpeg",
+            "type": "image"
+        },
+        "12d1ece3-e6c3-4ba8-ae8c-2468084d507b": {
+            "name": "Definitely not Windows 95_ What operating systems keep things running in space_.jpeg",
+            "type": "image"
+        },
+        "1ee829f8-42c8-4f6b-9f16-216ee025a6ce": {
+            "name": "Untitled design (1).jpeg",
+            "type": "image"
+        },
+        "24878a3a-8304-4f9a-8b39-a4db64e88df1": {
+            "name": "Launch Phase",
+            "children": [
+                "e9953b9a-2a59-42bf-8b69-9a5b4779c311",
+                "48f83412-ac88-40d9-bd86-ebf06c3bc21d",
+                "1ee829f8-42c8-4f6b-9f16-216ee025a6ce",
+                "0d2b1d25-9259-4bbb-8d95-d8019a06b3b5",
+                "2539c5f4-7d09-44a2-b848-73813f7bcc03",
+                "088eea7b-953e-4437-a647-8e0f2d0a1075",
+                "b377b1cc-561b-4ea2-8c55-db6d65ea23aa",
+                "f20a785e-679a-4d50-bb04-f682fea26034"
+            ]
+        },
+        "2539c5f4-7d09-44a2-b848-73813f7bcc03": {
+            "name": "VID_20231001_193101 (online-video-cutter.com) (1).gif",
+            "type": "image"
+        },
+        "25e2e2c3-c1d3-47e9-b5f4-0644b3784204": {
+            "name": "images_4.jpeg",
+            "type": "image"
+        },
+        "399ee967-e018-44b5-8695-51db6c413398": {
+            "name": "Astronomy & Me (3).gif",
+            "type": "image"
+        },
+        "3ad37d3f-4816-41b0-8512-c4c32b72542f": {
+            "name": "Data Collection Phase",
+            "children": [
+                "8d517e42-20d0-4ebd-a7f8-8148475137f6",
+                "12d1ece3-e6c3-4ba8-ae8c-2468084d507b"
+            ]
+        },
+        "48f83412-ac88-40d9-bd86-ebf06c3bc21d": {
+            "name": "Untitled design (2).jpeg",
+            "type": "image"
+        },
+        "5092246b-9908-49dd-beff-eb7b9dcf0830": {
+            "name": "images.jpeg",
+            "type": "image"
+        },
+        "647d0495-341f-42b2-8788-b47dace22bf8": {
+            "root": true,
+            "children": [
+                "c7e853f8-526c-4bd7-b74d-dd79774f6628",
+                "24878a3a-8304-4f9a-8b39-a4db64e88df1",
+                "d40810c7-a4bc-434e-ac32-481700856aa8",
+                "3ad37d3f-4816-41b0-8512-c4c32b72542f",
+                "bf75e2be-01d1-478d-9148-ea6d8ec890ec",
+                "f0748e2f-4709-4634-be86-40e7f6aacea6"
+            ]
+        },
+        "6a5965ea-721c-4aa4-95e1-3d0ca19aebd0": {
+            "name": "Parker Solar Probe Completes Second Close Approach to the Sun – Parker Solar Probe.gif",
+            "type": "image"
+        },
+        "7cb6e45f-f121-4143-803e-c533c6af53d3": {
+            "name": "side shell.gif",
+            "type": "image"
+        },
+        "7cdd03fc-a110-4b2b-ac98-60e4e3f1914b": {
+            "name": "Parker Solar Probe Reports Good Status After Close Solar Approach.jpeg",
+            "type": "image"
+        },
+        "8d517e42-20d0-4ebd-a7f8-8148475137f6": {
+            "name": "live prove (online-video-cutter.com) (2).gif",
+            "type": "image"
+        },
+        "918807d4-63d1-4c69-8976-bfa4132c057e": {
+            "name": "tumblr_mdicxgXIFQ1qdlh1io1_500.gif",
+            "type": "image"
+        },
+        "b377b1cc-561b-4ea2-8c55-db6d65ea23aa": {
+            "name": "R.gif",
+            "type": "image"
+        },
+        "bf75e2be-01d1-478d-9148-ea6d8ec890ec": {
+            "name": "275581214_5493302204067217_8265937647981336484_n.png",
+            "type": "image"
+        },
+        "c72e0b6c-c07a-4726-ba31-e30aee8690c5": {
+            "name": "images_3.jpeg",
+            "type": "image"
+        },
+        "c7e853f8-526c-4bd7-b74d-dd79774f6628": {
+            "name": "Welcome Phase",
+            "children": [
+                "efc478d0-8b14-4973-9cd6-5338c6a3f374",
+                "25e2e2c3-c1d3-47e9-b5f4-0644b3784204",
+                "918807d4-63d1-4c69-8976-bfa4132c057e",
+                "399ee967-e018-44b5-8695-51db6c413398"
+            ]
+        },
+        "d40810c7-a4bc-434e-ac32-481700856aa8": {
+            "name": "Journey Phase",
+            "children": [
+                "7cdd03fc-a110-4b2b-ac98-60e4e3f1914b",
+                "6a5965ea-721c-4aa4-95e1-3d0ca19aebd0",
+                "7cb6e45f-f121-4143-803e-c533c6af53d3",
+                "c72e0b6c-c07a-4726-ba31-e30aee8690c5",
+                "f82c4143-29ca-4e23-9708-94a3a8132977",
+                "fb54922e-be05-4a53-896f-96b89a69d686",
+                "5092246b-9908-49dd-beff-eb7b9dcf0830",
+                "fdbe3b29-0d1d-48d6-a185-11aa7e988199"
+            ]
+        },
+        "e9953b9a-2a59-42bf-8b69-9a5b4779c311": {
+            "name": "50402692696_03e4b94278_k.jpeg",
+            "type": "image"
+        },
+        "efc478d0-8b14-4973-9cd6-5338c6a3f374": {
+            "name": "images_5.jpeg",
+            "type": "image"
+        },
+        "f0748e2f-4709-4634-be86-40e7f6aacea6": {
+            "name": "Parker Solar Probe Reports Good Status After Close Solar Approach.jpeg",
+            "type": "image"
+        },
+        "f20a785e-679a-4d50-bb04-f682fea26034": {
+            "name": "VID_20231004_013956.gif",
+            "type": "image"
+        },
+        "f82c4143-29ca-4e23-9708-94a3a8132977": {
+            "name": "download.jpeg",
+            "type": "image"
+        },
+        "fb54922e-be05-4a53-896f-96b89a69d686": {
+            "name": "images_2.jpeg",
+            "type": "image"
+        },
+        "fdbe3b29-0d1d-48d6-a185-11aa7e988199": {
+            "name": "booster release.gif",
+            "type": "image"
+        }
+    },
+    "variables": {
+        "08bdb413-1e31-413c-a421-e5c69147d12a": {
+            "name": "fuel_load",
+            "type": "integer",
+            "value": 0
+        },
+        "1e68a607-cf82-431a-9836-d9859ada2f20": {
+            "name": "frequency_xband",
+            "type": "integer",
+            "value": 10
+        },
+        "66d04c7e-8575-41aa-8c81-3921d76b9a93": {
+            "name": "frequency_kband",
+            "type": "integer",
+            "value": 35
+        },
+        "747d0495-341f-42b2-8788-b47dace22bf8": {
+            "root": true,
+            "children": [
+                "08bdb413-1e31-413c-a421-e5c69147d12a",
+                "e4bfb553-9e79-4f24-83fe-167cf9270aba",
+                "1e68a607-cf82-431a-9836-d9859ada2f20",
+                "66d04c7e-8575-41aa-8c81-3921d76b9a93",
+                "c0b7a962-f992-4b98-b663-407b34e9cbe2"
+            ]
+        },
+        "c0b7a962-f992-4b98-b663-407b34e9cbe2": {
+            "name": "data_rate",
+            "type": "integer",
+            "value": 4
+        },
+        "e4bfb553-9e79-4f24-83fe-167cf9270aba": {
+            "name": "frequency_sband",
+            "type": "integer",
+            "value": 3
+        }
+    },
+    "conditions": {},
+    "name": "Parker Probe||Solar Odessy",
+    "cover": null
+}
